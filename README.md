@@ -1,4 +1,4 @@
-#VF2D
+# VF2D
 
 Une application permettant la résolution de l'équation différentielle -laplacien(u) = f et de visualiser l'ordre de convergence.
 
