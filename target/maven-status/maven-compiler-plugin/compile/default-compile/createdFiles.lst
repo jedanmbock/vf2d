@@ -1,0 +1,12 @@
+com\ananum\vf2d\functions\F2.class
+com\ananum\vf2d\gui\HeatMapViewer.class
+com\ananum\vf2d\utils\CDS.class
+com\ananum\vf2d\utils\Gauss.class
+com\ananum\vf2d\gui\ConvergenceAnalysis.class
+com\ananum\vf2d\utils\GaussSeidel.class
+com\ananum\vf2d\utils\Function.class
+com\ananum\vf2d\gui\GUI.class
+com\ananum\vf2d\method\FiniteVolumeSolver.class
+com\ananum\vf2d\functions\F1.class
+com\ananum\vf2d\VF2D.class
+com\ananum\vf2d\utils\CRS.class
